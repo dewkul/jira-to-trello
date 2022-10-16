@@ -1,2 +1,4 @@
 # jira-to-trello
 1-way import from jira to trello to have kanban board more easily accessed
+
+See: https://community.atlassian.com/t5/Jira-Software-questions/How-to-share-a-kanban-board-publicly/qaq-p/1815972
