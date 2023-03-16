@@ -8,4 +8,4 @@ Prerequisites:
 2. Have app password in JIRA
 
 # Run
-Replit: https://replit.com/@LeeU1911/jira-to-trello-sync?v=1
+https://replit.com/@LeeU1911/jira-to-trello-sync?v=1
